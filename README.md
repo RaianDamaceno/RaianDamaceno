@@ -5,7 +5,7 @@
 ## 🚀 About Me
 QA Engineer and Programmer
 
-![](https://github-readme-stats.vercel.app/api?username=RaianDamaceno&theme=blue-orange) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaianDamaceno&theme=orange-green)
+![](https://github-readme-stats.vercel.app/api?username=RaianDamaceno&theme=blue-orange)       ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaianDamaceno&theme=orange-green)
 
 ## 🛠 Skills
 ![Flutter](	https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
