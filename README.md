@@ -1,6 +1,10 @@
 
 # Hi, I'm Raian! 👋
 
+Passionate about technology, especially in terms of programming and quality.
+I have been working in the quality area for 6 years, and I have worked on projects for some companies such as Johnson and Johnson, BRF, Deloitte, Suzano, Embraer, among others.
+
+Worked on test automation, RPA and frontend projects
 
 ## 🚀 About Me
 QA Engineer and Programmer
