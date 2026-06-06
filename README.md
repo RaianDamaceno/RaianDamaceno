@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raian+Damaceno!+%F0%9F%91%8B;QA+Engineer+%26+Developer;6%2B+years+in+Quality+Assurance;Test+Automation+%7C+RPA+%7C+Frontend" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Raian+Damaceno!+%F0%9F%91%8B;Senior+QA+Engineer;9%2B+years+in+Software+Quality;Playwright+%7C+Cypress+%7C+Appium+%7C+Selenium" alt="Typing SVG" />
 
 <br/>
 
@@ -14,35 +14,44 @@
 
 ## About Me
 
-I'm a **QA Engineer and Developer** with 6+ years of experience in software quality and test automation. I've contributed to projects at major companies including **Johnson and Johnson, BRF, Deloitte, Suzano, and Embraer**.
+**Senior QA Engineer** with **9+ years of experience** specializing in Software Quality and test automation. I have worked on projects across various industries using tools like Cypress, Selenium, Playwright, and Appium for test automation on different platforms, including mobile applications.
 
-- I work with **Test Automation, RPA, and Frontend Development**
+- Currently working as **Senior QA Engineer at Navalia** (March 2025 - Present)
 - Based in **Sao Jose dos Campos, SP, Brazil**
-- Passionate about delivering high-quality software and improving development workflows
-- Always learning new technologies and best practices
-- Open to collaborations on interesting projects
+- Specialist in **web, mobile, and API test automation**
+- Experience with **CI/CD pipelines**, Docker, and cloud-based workflows
+- Degree in **Database Technology** - University of Technology Prof. Jessen Vidal
 
 ---
 
 ## Tech Stack
 
-### QA and Automation
+### Test Automation Frameworks
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### CI/CD and DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -69,15 +78,72 @@ I'm a **QA Engineer and Developer** with 6+ years of experience in software qual
 
 ---
 
-## Experience Highlights
+## Work Experience
 
-| Company | Role | Area |
-|---|---|---|
-| Johnson and Johnson | QA Engineer | Test Automation |
-| Deloitte | QA Engineer | Quality Assurance |
-| BRF | QA Engineer | Test Automation |
-| Suzano | QA Engineer | Quality Assurance |
-| Embraer | QA Engineer | Test Automation and RPA |
+### Senior QA Engineer - Navalia
+**March 2025 - Present**
+
+Working with manual and automated testing focused on the payments and orders module. Using Playwright for web, Maestro.dev for Android, and Loadmill for API testing.
+
+Technologies: `Playwright` `TypeScript` `Maestro.dev` `Loadmill` `Rest Assured`
+
+---
+
+### Senior QA Engineer - BairesDev
+**September 2022 - February 2025**
+
+**Project 1 - Internationalization Automation:** Automated testing for translations, date/time formats, and localization rules across multiple languages with CI/CD integration via GoCD and Docker.
+
+Technologies: `Cypress` `Pytest` `Maestro.dev` `JavaScript` `Python` `GoCD` `Docker`
+
+**Project 2 - Ecommerce Testing (Shopify):** Manual and automated testing for a Shopify ecommerce platform, covering checkout flow, payments, orders, and security.
+
+Technologies: `Playwright` `TypeScript` `Selenium` `Python` `MySQL`
+
+---
+
+### Senior QA Engineer - Iteris
+**April 2022 - September 2022**
+
+Automated testing for web and API platforms in a customer service system using Java, Selenium, Cucumber, and Rest Assured, with Azure integration.
+
+Technologies: `Java` `Selenium` `Cucumber` `Rest Assured` `Azure` `Oracle Database`
+
+---
+
+### Senior QA Engineer - Estrategia Educacional
+**April 2021 - April 2022**
+
+Web and mobile testing with automation using Cypress, Flutter Driver, and GitHub Actions for iOS and web platforms.
+
+Technologies: `Cypress` `Flutter` `Dart` `Flutter Driver` `JavaScript` `PostgreSQL` `GitHub Actions`
+
+---
+
+### Software Analyst (QA) - Deloitte
+**November 2019 - April 2021**
+
+RPA automation with UiPath, SAP test automation with Worksoft, and web test automation with Selenium.
+
+Technologies: `UiPath` `Worksoft` `Selenium` `JavaScript` `PostgreSQL`
+
+---
+
+### Mid QA Engineer - SONDA
+**June 2019 - November 2019**
+
+Quality assurance for enterprise applications, infrastructure and software testing, test case management with Jira and Zephyr.
+
+Technologies: `Python` `MySQL` `Jira` `Zephyr`
+
+---
+
+### QA Analyst and Frontend Developer - Moneto.app
+**December 2016 - June 2019**
+
+QA automation and frontend development for financial applications, building web, mobile, and API automated tests.
+
+Technologies: `Selenium` `Ruby` `Cucumber` `Appium` `Vue.js` `JavaScript` `PostgreSQL` `Jenkins`
 
 ---
 
@@ -95,6 +161,6 @@ I'm a **QA Engineer and Developer** with 6+ years of experience in software qual
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RaianDamaceno&color=blue&style=flat-square&label=Profile+Views)
 
-Quality is not an act, it is a habit - Aristotle
+*"Quality is not an act, it is a habit."* - Aristotle
 
 </div>
