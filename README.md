@@ -16,11 +16,11 @@
 
 I'm a **QA Engineer and Developer** with 6+ years of experience in software quality and test automation. I've contributed to projects at major companies including **Johnson & Johnson, BRF, Deloitte, Suzano, and Embraer**.
 
-- 🔭 I work with **Test Automation, RPA, and Frontend Development**
-- - 🌍 Based in **São José dos Campos, SP — Brazil**
-  - - 💡 Passionate about delivering high-quality software and improving development workflows
-    - - 📚 Always learning new technologies and best practices
-      - - 🤝 Open to collaborations on interesting projects
+- I work with **Test Automation, RPA, and Frontend Development**
+- - Based in **Sao Jose dos Campos, SP — Brazil**
+  - - Passionate about delivering high-quality software and improving development workflows
+    - - Always learning new technologies and best practices
+      - - Open to collaborations on interesting projects
        
         - ---
 
